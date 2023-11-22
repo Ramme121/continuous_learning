@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: netflix
+    database: avian-hangout-404413
+    tables:
+      - name: stream
+   
+    
